@@ -1,6 +1,8 @@
 # rexycim-patlak.
 Burda av*llikleri göstercem.
 
+**Prim vermeye gerek yoktu ama genede atayim dedim. Ortaokul çocuğu sanırım bence :D**
+
 ![image](https://cdn.discordapp.com/attachments/1199106040319443086/1229489929969598525/Screenshot_20240415-205307.jpg?ex=662fdeba&is=661d69ba&hm=02894895c8ab8d8e7fd0e1a718d6dbaa35d7204fd3b684afbbba83fade031321&)
 ![image](https://cdn.discordapp.com/attachments/1215320706313887774/1229493777941401761/Screenshot_20240415-210845.jpg?ex=662fe24f&is=661d6d4f&hm=7458735827e5dfc00226557a14e839069c0a7ff54c70adf6976953382b416253&)
 ![image](https://cdn.discordapp.com/attachments/1229481266710315008/1229493169457201152/Screenshot_20240415-210645.jpg?ex=662fe1be&is=661d6cbe&hm=0acb5aa7bba45b4fe4b81ed90dcbeee1a33957c074ed250141043033b359a222&)
